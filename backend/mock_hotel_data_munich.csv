@@ -1,0 +1,21 @@
+name,location,distance_to_center_km,pet_friendly,breakfast_rating,parking,type,near_landmark,quiet,description
+Hotel Cortiina,Munich,2.37,FALSE,9.7,FALSE,luxury,Olympiapark,TRUE,"A quiet and peaceful atmosphere, serves excellent breakfast, close to Olympiapark hotel in Munich."
+Hotel Torbräu,Munich,2.1,TRUE,7.6,TRUE,classic,Olympiapark,TRUE,"A pet-friendly, offers free parking, quiet and peaceful atmosphere, close to Olympiapark hotel in Munich."
+Ruby Lilly Hotel,Munich,3.84,TRUE,9.7,TRUE,classic,Theresienwiese,TRUE,"A pet-friendly, offers free parking, quiet and peaceful atmosphere, serves excellent breakfast, close to Theresienwiese hotel in Munich."
+Hotel Bayerischer Hof,Munich,4.98,FALSE,7.9,FALSE,boutique,Theresienwiese,FALSE,A close to Theresienwiese hotel in Munich.
+Mandarin Oriental,Munich,2.43,TRUE,7.4,TRUE,boutique,Englischer Garten,TRUE,"A pet-friendly, offers free parking, quiet and peaceful atmosphere, close to Englischer Garten hotel in Munich."
+Platzl Hotel,Munich,2.27,TRUE,8.4,TRUE,budget,Olympiapark,FALSE,"A pet-friendly, offers free parking, close to Olympiapark hotel in Munich."
+Sofitel Munich,Munich,2.45,FALSE,8.9,TRUE,luxury,Olympiapark,TRUE,"A offers free parking, quiet and peaceful atmosphere, serves excellent breakfast, close to Olympiapark hotel in Munich."
+Hotel Vier Jahreszeiten,Munich,1.59,TRUE,9.6,TRUE,boutique,Englischer Garten,TRUE,"A pet-friendly, offers free parking, quiet and peaceful atmosphere, serves excellent breakfast, close to Englischer Garten hotel in Munich."
+Hotel Laimer Hof,Munich,0.44,TRUE,8.7,FALSE,classic,Englischer Garten,FALSE,"A pet-friendly, serves excellent breakfast, close to Englischer Garten hotel in Munich."
+Hotel Metropol,Munich,4.08,FALSE,8.1,FALSE,budget,Marienplatz,FALSE,A close to Marienplatz hotel in Munich.
+Marc München,Munich,0.38,FALSE,7.8,FALSE,classic,Hauptbahnhof,TRUE,"A quiet and peaceful atmosphere, close to Hauptbahnhof hotel in Munich."
+Hotel München Palace,Munich,2.33,FALSE,8.6,FALSE,classic,Marienplatz,FALSE,"A serves excellent breakfast, close to Marienplatz hotel in Munich."
+Le Méridien,Munich,3.89,FALSE,8.8,TRUE,modern,Theresienwiese,TRUE,"A offers free parking, quiet and peaceful atmosphere, serves excellent breakfast, close to Theresienwiese hotel in Munich."
+NH Collection München,Munich,1.49,TRUE,7.6,FALSE,modern,Theresienwiese,FALSE,"A pet-friendly, close to Theresienwiese hotel in Munich."
+Hilton Munich City,Munich,2.19,TRUE,8,FALSE,modern,Hauptbahnhof,TRUE,"A pet-friendly, quiet and peaceful atmosphere, close to Hauptbahnhof hotel in Munich."
+Eurostars Grand Central,Munich,4.74,FALSE,7.8,FALSE,classic,Theresienwiese,FALSE,A close to Theresienwiese hotel in Munich.
+Roomers Munich,Munich,1.2,FALSE,9.3,TRUE,modern,Englischer Garten,FALSE,"A offers free parking, serves excellent breakfast, close to Englischer Garten hotel in Munich."
+25hours Hotel The Royal Bavarian,Munich,1.01,TRUE,8.6,TRUE,boutique,Olympiapark,TRUE,"A pet-friendly, offers free parking, quiet and peaceful atmosphere, serves excellent breakfast, close to Olympiapark hotel in Munich."
+Hotel Admiral,Munich,3.56,TRUE,9.1,FALSE,classic,Olympiapark,TRUE,"A pet-friendly, quiet and peaceful atmosphere, serves excellent breakfast, close to Olympiapark hotel in Munich."
+Hotel Opera,Munich,1.8,FALSE,9.7,FALSE,boutique,Theresienwiese,FALSE,"A serves excellent breakfast, close to Theresienwiese hotel in Munich."

@@ -1,0 +1,141 @@
+.hotel-finder-container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+  }
+  
+  .hotel-finder-content {
+    width: 100%;
+    max-width: 600px;
+  }
+  
+  .hotel-finder-content h1 {
+    text-align: center;
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .search-container {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-bottom: 20px;
+  }
+  
+  @media (min-width: 640px) {
+    .search-container {
+      flex-direction: row;
+    }
+  }
+  
+  .search-container input {
+    flex-grow: 1;
+    padding: 12px;
+    border-radius: 12px;
+    border: 1px solid #ccc;
+    color: #d0d0d0;
+  }
+  
+  .search-container button {
+    padding: 12px 20px;
+    background-color: #2563eb;
+    color: white;
+    border: none;
+    border-radius: 12px;
+    font-weight: 600;
+    cursor: pointer;
+  }
+  
+  .search-container button:hover {
+    background-color: #1d4ed8;
+  }
+  
+  .search-container button:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+  }
+  
+  .error-message {
+    color: #ef4444;
+    text-align: center;
+    margin: 10px 0;
+  }
+  
+  .hotel-results {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    margin-top: 20px;
+  }
+  
+  .hotel-card {
+    background-color: rgb(40, 36, 108);
+    border-radius: 12px;
+    padding: 16px;
+    border: 1px solid #e5e7eb;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  .hotel-card h2 {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 4px;
+  }
+  
+  .hotel-location {
+    color: #9ca3af;
+    font-size: 14px;
+  }
+  
+  .hotel-details {
+    margin-top: 8px;
+    font-size: 14px;
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .hotel-details li {
+    margin-bottom: 4px;
+  }
+
+  .hotel-matching-info {
+    margin-top: 10px;
+    font-size: 13px;
+  }
+  
+  .hotel-matching-info ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    margin: 6px 0;
+  }
+  
+  .match-tag,
+  .miss-tag {
+    padding: 4px 8px;
+    border-radius: 9999px;
+    font-size: 13px;
+  }
+  
+  .match-tag {
+    background-color: #10b98133; /* emerald green-ish */
+    color: #10b981;
+    border: 1px solid #10b98188;
+  }
+  
+  .miss-tag {
+    background-color: #ef444433; /* red-ish */
+    color: #ef4444;
+    border: 1px solid #ef444488;
+  }
+
+
+  .hotel-score {
+    font-weight: bold;
+    color: #22d3ee; /* cyan-400 */
+    margin-top: 8px;
+  }
